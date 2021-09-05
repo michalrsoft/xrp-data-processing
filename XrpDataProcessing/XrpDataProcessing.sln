@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.223
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "XrpDataProcessing", "XrpDataProcessing.pyproj", "{14D2E25C-4DFA-4D78-9194-42149A0A972A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14D2E25C-4DFA-4D78-9194-42149A0A972A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14D2E25C-4DFA-4D78-9194-42149A0A972A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E5A1D00-B92B-40C3-B09F-BF8AE9C2A459}
+	EndGlobalSection
+EndGlobal
